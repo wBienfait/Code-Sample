@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Card.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="CardList.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprites.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\main\lib\flib\flib.cpp">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\main\lib\flib\flib_vec2.cpp">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\main\lib\lua\lua.cpp">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaFunctions.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="TXML_Root.cpp">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Card.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="CardList.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Constantes.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprites.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaFunctions.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="TSLL_Item.h">
+      <Filter>Parser</Filter>
+    </ClInclude>
+    <ClInclude Include="TXML_Root.h">
+      <Filter>Parser</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>h</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="cpp">
+      <UniqueIdentifier>{1a18d515-ed9b-43ce-b178-35cd71abb104}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib">
+      <UniqueIdentifier>{1ffa424c-e7e7-4d7a-8a24-991f3e526e04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="h">
+      <UniqueIdentifier>{c6340e93-0fb7-4b89-8d9a-6bfc468bca0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parser">
+      <UniqueIdentifier>{7b638184-29ca-4d30-9a7a-690d710eb84e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

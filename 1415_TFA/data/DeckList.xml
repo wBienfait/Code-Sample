@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<root>
+  <player>
+    <deckList>
+      <card name ="Zombie"/>
+      <card name ="Zombie"/>
+      <card name ="Punch"/>
+      <card name ="Punch"/>
+      <card name ="Sneeze"/>
+      <card name ="Sneeze"/>
+      <card name ="Diarium"/>
+      <card name ="Diarium"/>
+      <card name ="Diarhea"/>
+      <card name ="Diarhea"/>
+      <card name ="Vomiting"/>
+      <card name ="Vomiting"/>
+      <card name ="Health Stick"/>
+      <card name ="Health Stick"/>
+      <card name ="Arm"/>
+      <card name ="Arm"/>
+      <card name ="Transix"/>
+      <card name ="Transix"/>
+      <card name ="Berserk"/>
+      <card name ="Berserk"/>
+      </deckList>
+  </player>
+</root>

@@ -1,0 +1,39 @@
+﻿La génération a démarré 25/05/2015 12:58:59.
+     1>Projet "C:\Users\BIFI\Source\Repos\william.bienfait\1415_TFA\1415_TFA.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W4 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Animation.cpp Button.cpp Card.cpp CardList.cpp GameState.cpp LuaFunctions.cpp main.cpp Player.cpp Sprites.cpp TXML_Root.cpp
+         TXML_Root.cpp
+         Sprites.cpp
+         Player.cpp
+         LuaFunctions.cpp
+     1>LuaFunctions.cpp(34): warning C4800: 'int' : valeur forcée à la valeur booléenne 'true' ou 'false' (avertissement sur les performances)
+         GameState.cpp
+         Card.cpp
+         Animation.cpp
+         Génération de code en cours...
+         Compilation en cours...
+         main.cpp
+         CardList.cpp
+         Button.cpp
+         Génération de code en cours...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\BIFI\Source\Repos\william.bienfait\1415_TFA\Debug\1415_TFA.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Delayimp.lib /DELAYLOAD:xinput9_1_0.dll /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\BIFI\Source\Repos\william.bienfait\1415_TFA\Debug\1415_TFA.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\BIFI\Source\Repos\william.bienfait\1415_TFA\Debug\1415_TFA.lib" /MACHINE:X86 Debug\flib.obj
+         Debug\flib_vec2.obj
+         Debug\lua.obj
+         Debug\Animation.obj
+         Debug\Button.obj
+         Debug\Card.obj
+         Debug\CardList.obj
+         Debug\Game.obj
+         Debug\GameState.obj
+         Debug\LuaFunctions.obj
+         Debug\main.obj
+         Debug\Player.obj
+         Debug\Sprites.obj
+         Debug\TXML_Root.obj
+         1415_TFA.vcxproj -> C:\Users\BIFI\Source\Repos\william.bienfait\1415_TFA\Debug\1415_TFA.exe
+     1>Génération du projet "C:\Users\BIFI\Source\Repos\william.bienfait\1415_TFA\1415_TFA.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:09.29
